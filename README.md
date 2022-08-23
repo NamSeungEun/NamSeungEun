@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNamSeunEun&count_bg=%230EB8E3&title_bg=%230234D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 ## 👋 Hi there 👋
-### Hello, I'm Hyuen Woo Chae! 
+### Hello, I'm SeungEun Nam! 
 I am dreaming of a new experience as a <b>`Backend-Developer`<b><br><br>
 <!--
 I'm interested in `Web`, `cloud`, `techs`<br><br>

@@ -19,11 +19,7 @@ Looking forward to your contact!<br><br>
         src="http://img.shields.io/badge/-Notion_portfolio-222222?style=flat&logo=Notion&link=https://irradiated-leaf-009.notion.site/3f75357afde740ed8a8842933fd7db1f"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://backendcode.tistory.com/">
-    <img
-        src="http://img.shields.io/badge/-Tech_blog-222222?style=flat&logo=Vector Logo Zone&link=https://backendcode.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 </br>
 </br>
 <h1>야야야야야</h1>

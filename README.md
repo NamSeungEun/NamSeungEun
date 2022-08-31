@@ -16,7 +16,7 @@ Looking forward to your contact!<br><br>
 
 <b>😀 About Me 😀<b>
 </br></br>
- <a href="[https://irradiated-leaf-009.notion.site/3f75357afde740ed8a8842933fd7db1f](https://www.notion.so/cd0c44d6d81f4b448c193eeeeef17dff)">
+ <a href="https://www.notion.so/cd0c44d6d81f4b448c193eeeeef17dff">
     <img 
         src="http://img.shields.io/badge/-Notion_portfolio-222222?style=flat&logo=Notion&link=https://irradiated-leaf-009.notion.site/3f75357afde740ed8a8842933fd7db1f"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
